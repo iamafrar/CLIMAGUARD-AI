@@ -1,2 +1,2 @@
-# CLIMAGUARD-AI
-Rainfall-related flood-risk intelligence in Sri Lanka.
+# CLIMAGUARD AI
+Rainfall related flood risk intelligence in Sri Lanka.
