@@ -46,6 +46,6 @@ with rasterio.open(file_path) as src:
         print("Maximum:", float(valid.max()))
         print("Mean:", float(valid.mean()))
     else:
-        print("No valid values found in this window.")
+        print("No valid values found in this window")
 
-print("\nCheck completed.")
+print("\nCheck completed")
